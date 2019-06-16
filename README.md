@@ -1,5 +1,6 @@
 # IoT
-Learning IoT 
+Learning IoT:
+
 This is for me to post code I create/learned while working with IoT devices mostly ESP32.
 
 1. How sensors work
