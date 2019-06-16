@@ -56,4 +56,4 @@ while True:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((host, port))
     s.sendall(payload)
-    sleep(5)
+    sleep(900)
