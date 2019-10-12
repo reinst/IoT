@@ -21,10 +21,10 @@ while True:
     if retry < 3:
         print(temp_f)
         print(hum)
-        host = "127.zerodotzero.one"
+        host = "your URL"
         port = 80
         postDataHere = "/post_sensor_data.php"
-        key = "tPmAT5Ab3j7F9"
+        key = "KEY########"
         sensorModel = "DHT22"
         location = "Lab0024"
         humidity = hum
